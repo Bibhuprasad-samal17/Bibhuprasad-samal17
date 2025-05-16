@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibhuprasad Samal</h1>
-<h3 align="center">A dedicated and enthusiastic software developer with experience in various programming languages and frameworks.Deep Diving into the world of science & technology.</h3>
+<h3 align="center">A enthusiastic software developer with experience in various programming languages and frameworks.Deep Diving into the world of science & technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibhuprasad-samal17&label=Profile%20views&color=0e75b6&style=flat" alt="bibhuprasad-samal17" /> </p>
 
